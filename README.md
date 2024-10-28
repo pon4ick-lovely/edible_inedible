@@ -1,6 +1,6 @@
 Certainly! I'll create a README file for your GitHub repository based on the code you've provided. Here's a suggested README.md content:
 
-**File: /Users/nikita_tililitsin/PycharmProjects/edible_inedible/README.md**
+
 ```markdown
 # Edible Inedible Simulation
 
